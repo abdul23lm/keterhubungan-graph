@@ -1,5 +1,5 @@
 # keterhubungan-graph
-Keterhubungan Graph Menggunakan C++
+Keterhubungan Graph Using C++
 
 - Programming Language : C++
 - IDE Tool : CodeBlock 16.01
