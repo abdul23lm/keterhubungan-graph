@@ -2,4 +2,4 @@
 Keterhubungan Graph Menggunakan C++
 
 - Programming Language : C++
-- IDE Tools : CodeBlock 16.01
+- IDE Tool : CodeBlock 16.01
